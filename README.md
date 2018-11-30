@@ -1,1 +1,1 @@
-# GlobalAIMRBootcampMadrid2018
+# Global AI/MR Bootcamp Madrid 2018
