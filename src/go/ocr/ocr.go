@@ -31,7 +31,7 @@ func main() {
 
 	const uri = uriBase + uriPath + "?" + requestParameters
 
-	imagePath := "C:\\Users\\cmend\\Pictures\\Capture.png"
+	imagePath := "sample.png"
 
 	var b bytes.Buffer
 	w := multipart.NewWriter(&b)

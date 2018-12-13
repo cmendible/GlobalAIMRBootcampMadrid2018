@@ -16,7 +16,7 @@ func main() {
 	// subscription keys. For example, if you got your subscription keys from
 	// westus, replace "westcentralus" in the URL below with "westus".
 	const uriBase = "https://westeurope.api.cognitive.microsoft.com/face/v1.0/detect"
-	const imageUrl = "https://upload.wikimedia.org/wikipedia/commons/3/37/Dagestani_man_and_woman.jpg"
+	const imageUrl = "https://carlos.mendible.com/static/img/avatar.jpg"
 
 	const params = "?returnFaceAttributes=age,gender,headPose,smile,facialHair," +
 		"glasses,emotion,hair,makeup,occlusion,accessories,blur,exposure,noise"
